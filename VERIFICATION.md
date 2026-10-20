@@ -19,7 +19,16 @@ python scripts/validate_repository.py
 
 The validator checks required files, UTF-8 text, modules, strict JSON, source IDs, scoped/caveated claims, citation author consistency, local links/anchors, and one-based PDF page bounds. It permits conceptual guides without an experimental results dataset.
 
-Local checks passed: **22 files, 7 modules, 88 local links, 120 source-page links, and 16 scoped claims**. No experimental results dataset is included because the paper reports no new experiment. Public publication checks will be recorded after publishing.
+Local checks passed: **22 files, 7 modules, 88 local links, 120 source-page links, and 16 scoped claims**. No experimental results dataset is included because the paper reports no new experiment.
+
+## Publication checks
+
+- Checked existing repositories before creation; no repository matching this paper was found. The separately titled System 0/1/2/3 guide concerns a different arXiv paper.
+- GitHub API confirmed `visibility=public`, `private=false`, the intended description, and `main` default branch.
+- Anonymous HTTP requests returned 200 for both the repository and raw README.
+- Published initial commit `e7338c0ccdd1d7be53db22452600218b1f48691a` matched all 22 local file blobs by path and Git object hash.
+
+This verification note was then added to the published guide; future edits should rerun checks.
 
 ## Limits
 
