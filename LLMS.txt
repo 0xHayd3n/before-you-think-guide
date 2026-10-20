@@ -1,0 +1,27 @@
+# Before You Think Guide
+
+> Unofficial reading companion to Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization (arXiv:2606.13658v1).
+> Authors: Marianna Bergamaschi Ganapini; Massimo Chiriatti; Enrico Panai; Giuseppe Riva.
+> Conceptual/philosophical argument. No new experiments, replication, or validated diagnostic.
+
+- [Start and scope](README.md)
+- [Agent grounding rules](AGENTS.md)
+- [Concepts and architecture](docs/01-concepts-and-architecture.md)
+- [System 0, System 3, Thinkframes](docs/02-three-frameworks.md)
+- [Cited evidence and its limits](docs/03-evidence-and-its-limits.md)
+- [Cognitive colonization diagnostic](docs/04-cognitive-colonization.md)
+- [Critical reading and limitations](docs/05-critical-reading.md)
+- [Complete section, table, footnote, reference map](docs/06-paper-map.md)
+- [Questions and proposed research agenda](docs/07-questions-and-research-agenda.md)
+- [Pinned paper and provenance](metadata/paper.json)
+- [Typed claim index](metadata/claims.json)
+- [Source register](metadata/sources.json)
+- [Citation](CITATION.cff)
+- [Attribution](ATTRIBUTION.md)
+- [Verification scope](VERIFICATION.md)
+- [Paper PDF](https://arxiv.org/pdf/2606.13658v1)
+
+System 0 integration is gradual. Table 2 maps external literature and includes speculation.
+Colonization is a proposed joint diagnostic, not an experimentally established category.
+Source pages are one-based PDF pages, 1–32. No appendix is present.
+

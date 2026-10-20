@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "verified_at": "2026-10-20",
+  "sources": [
+    {
+      "id": "paper-v1-attachment",
+      "type": "primary_source",
+      "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
+      "authors": [
+        "Marianna Bergamaschi Ganapini",
+        "Massimo Chiriatti",
+        "Enrico Panai",
+        "Giuseppe Riva"
+      ],
+      "version": "2606.13658v1",
+      "url": "https://arxiv.org/pdf/2606.13658v1",
+      "record_url": "https://arxiv.org/abs/2606.13658v1",
+      "access_route": "Complete exact attachment Library page-labeled text extraction",
+      "page_count": 32,
+      "scope": "All substantive content, tables, footnotes, and references in the assigned attachment.",
+      "limitations": [
+        "No local binary hash or byte comparison was established.",
+        "Cited external studies are treated as secondhand descriptions in this guide."
+      ]
+    },
+    {
+      "id": "arxiv-v1-record",
+      "type": "official_bibliographic_record",
+      "title": "arXiv v1 record",
+      "url": "https://arxiv.org/abs/2606.13658v1",
+      "access_route": "Official public web record checked 2026-10-20",
+      "scope": "Title, author order, submission time, DOI and license link.",
+      "limitations": [
+        "An official preprint record does not itself establish peer review or validate the paper's claims."
+      ]
+    },
+    {
+      "id": "paper-license",
+      "type": "license",
+      "title": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "access_route": "Followed official arXiv v1 license link",
+      "scope": "Paper license and conservatively matching companion license.",
+      "limitations": [
+        "Third-party studies and products do not inherit this repository's license."
+      ]
+    },
+    {
+      "id": "arxiv-v1-auxiliary-pdf",
+      "type": "official_public_pdf",
+      "url": "https://arxiv.org/pdf/2606.13658v1",
+      "page_count": 32,
+      "access_route": "Downloaded official versioned public PDF and rendered table pages",
+      "scope": "Auxiliary visual review of Tables1-3; matching title/authors/version/page count and stated byte size",
+      "limitations": [
+        "No byte equality established against the attachment; attached content was read through Library."
+      ]
+    }
+  ],
+  "external_study_review": {
+    "status": "not_independently_audited",
+    "reason": "This guide explains the assigned paper. It distinguishes the paper's literature interpretations from primary-study verification.",
+    "navigation": "docs/03-evidence-and-its-limits.md"
+  }
+}

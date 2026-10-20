@@ -1,0 +1,465 @@
+{
+  "schema_version": "1.0.0",
+  "paper_version": "2606.13658v1",
+  "paper_type": "conceptual_philosophical_argument",
+  "note": "Typed navigation index. No new experimental results, validated diagnostic, prevalence estimate, or replication is supplied by this paper or guide.",
+  "claims": [
+    {
+      "id": "system0-preprocessing",
+      "kind": "conceptual_claim",
+      "statement": "System 0 is proposed as a layer that can shape informational inputs before intuitive and deliberative processes engage.",
+      "scope": "The authors' architectural account of sufficiently integrated, user-specific AI relationships.",
+      "caveats": [
+        "Not a newly observed neural structure.",
+        "Not all AI or all use of personalization qualifies."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2–2.1",
+          "page": 3,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=3"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2–2.1",
+          "page": 4,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=4"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2–2.1",
+          "page": 5,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=5"
+        }
+      ]
+    },
+    {
+      "id": "three-level-description",
+      "kind": "conceptual_claim",
+      "statement": "A fully realized instance combines computational adaptation, psychological integration, and epistemic structuring.",
+      "scope": "Table 1 and the three levels in §2.1.",
+      "caveats": [
+        "Integration is described as gradual.",
+        "No validated composite instrument or cutoff is supplied."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.1; Table 1",
+          "page": 4,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=4"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.1; Table 1",
+          "page": 5,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=5"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.1; Table 1",
+          "page": 9,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=9"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.1; Table 1",
+          "page": 10,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=10"
+        }
+      ]
+    },
+    {
+      "id": "bounded-system0",
+      "kind": "conceptual_claim",
+      "statement": "System 0 is distributed across relevant supports and bounded by the user's actual interaction possibilities.",
+      "scope": "A variable, person-and-situation-dependent boundary.",
+      "caveats": [
+        "Not equivalent to a device or all computations on a platform.",
+        "The paper does not provide a formal boundary algorithm."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.1",
+          "page": 5,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=5"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.1",
+          "page": 6,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=6"
+        }
+      ]
+    },
+    {
+      "id": "complementary-extended-mind",
+      "kind": "philosophical_argument",
+      "statement": "The paper uses a complementary, multidimensional extended mind account to argue for AI integration.",
+      "scope": "Theoretical relation to parity, complementarity, and Heersmink-style dimensions.",
+      "caveats": [
+        "Being influenced by a tool does not automatically establish constitutive integration.",
+        "The present paper does not measure and validate the full integration profile."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.2",
+          "page": 6,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=6"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.2",
+          "page": 7,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=7"
+        }
+      ]
+    },
+    {
+      "id": "navigation-writing-markers",
+      "kind": "cited_evidence_interpretation",
+      "statement": "Navigation and writing studies are interpreted as potential markers of reliance, phenomenological continuity, and incorporation.",
+      "scope": "Authors' use of external literature in §2.3 and Table 2.",
+      "caveats": [
+        "Underlying studies were not independently audited for this companion.",
+        "The observations do not alone establish the full colonization profile."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.3; Table 2",
+          "page": 7,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=7"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.3; Table 2",
+          "page": 8,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=8"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.3; Table 2",
+          "page": 16,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=16"
+        }
+      ]
+    },
+    {
+      "id": "wearables-speculation",
+      "kind": "speculative_example",
+      "statement": "Wearables could mediate bodily self-knowledge before explicit reflection.",
+      "scope": "The paper's explicitly speculative interoception illustration.",
+      "caveats": [
+        "No new wearable experiment is reported.",
+        "A device's stress output alone does not prove replacement of interoception or colonization."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.3; Table 2",
+          "page": 8,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=8"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.3; Table 2",
+          "page": 9,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=9"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "2.3; Table 2",
+          "page": 16,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=16"
+        }
+      ]
+    },
+    {
+      "id": "system3-critique",
+      "kind": "philosophical_argument",
+      "statement": "The authors question whether deference is AI-specific, whether consultation captures ambient mediation, and whether external surrender fits the language of a system of mind.",
+      "scope": "The authors' critique of Tri-System Theory as characterized in §3.",
+      "caveats": [
+        "No matched human-adviser experiment is run in this paper.",
+        "Criticism of a current formulation is not proof that it cannot be extended."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "3",
+          "page": 10,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=10"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "3",
+          "page": 11,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=11"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "3",
+          "page": 12,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=12"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "3",
+          "page": 13,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=13"
+        }
+      ]
+    },
+    {
+      "id": "thinkframes-critique",
+      "kind": "philosophical_argument",
+      "statement": "The authors argue that an ecological account underdescribes individually calibrated and phenomenologically incorporated AI mediation.",
+      "scope": "Their comparison with Thinkframes.",
+      "caveats": [
+        "The ecological framework's inability to explain integration is an argumentative claim.",
+        "Collective effects and personalization can overlap across descriptions."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "4",
+          "page": 13,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=13"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "4",
+          "page": 14,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=14"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "4",
+          "page": 15,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=15"
+        }
+      ]
+    },
+    {
+      "id": "table2-literature-map",
+      "kind": "cited_evidence_interpretation",
+      "statement": "Table 2 maps twelve selected phenomena to System 0 and compares their relationship to alternatives.",
+      "scope": "A heterogeneous literature mapping rather than a new empirical evaluation.",
+      "caveats": [
+        "Includes one explicitly speculative wearable item.",
+        "Some mappings fit more than one framework.",
+        "No systematic review, pooled estimate, or controlled theory comparison is supplied."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "Table 2",
+          "page": 16,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=16"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "Table 2",
+          "page": 17,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=17"
+        }
+      ]
+    },
+    {
+      "id": "colonization-theoretical-status",
+      "kind": "conceptual_claim",
+      "statement": "Cognitive colonization is introduced as a theoretical construct with a proposed diagnostic profile.",
+      "scope": "The source's explicit qualification of the central term.",
+      "caveats": [
+        "Not an already cleanly isolated empirical kind.",
+        "Not a validated screening instrument or individual diagnosis."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5",
+          "page": 17,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=17"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5",
+          "page": 18,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=18"
+        }
+      ]
+    },
+    {
+      "id": "colonization-joint-profile",
+      "kind": "conceptual_claim",
+      "statement": "The proposed profile links integration and downstream incorporation with external directional governance, opacity, and reflective non-endorsement.",
+      "scope": "Prose in §5 read together with descriptive and normative rows of Table 3.",
+      "caveats": [
+        "Evidence for one condition is insufficient for the joint profile.",
+        "The paper provides no calibrated threshold, prevalence estimate, or new diagnostic validation."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 3",
+          "page": 18,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=18"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 3",
+          "page": 19,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=19"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 3",
+          "page": 20,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=20"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 3",
+          "page": 21,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=21"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 3",
+          "page": 22,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=22"
+        }
+      ]
+    },
+    {
+      "id": "persistence-interpretation",
+      "kind": "cited_evidence_interpretation",
+      "statement": "The authors interpret AI bias persisting after removal and bias amplification as supporting incorporation.",
+      "scope": "Their description of external studies in §5 and Table 2.",
+      "caveats": [
+        "Carryover is not by itself proof of constitution or colonization.",
+        "The cited studies were not independently audited for this companion."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 2",
+          "page": 17,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=17"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 2",
+          "page": 18,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=18"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5; Table 2",
+          "page": 19,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=19"
+        }
+      ]
+    },
+    {
+      "id": "function-versus-norms",
+      "kind": "normative_argument",
+      "statement": "A support can be functionally integrated while its direction fails the person's reflective endorsement.",
+      "scope": "The normative extension of the extended mind argument.",
+      "caveats": [
+        "External origin alone does not establish misalignment.",
+        "Reflective endorsement is not operationalized as a validated measure."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5.1",
+          "page": 22,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=22"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5.1",
+          "page": 23,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=23"
+        }
+      ]
+    },
+    {
+      "id": "native-versus-integrated",
+      "kind": "philosophical_argument",
+      "statement": "The authors distinguish non-biological integration from biological nativeness to explain an internal threat from an externally implemented component.",
+      "scope": "The response to the paper's internal-threat objection.",
+      "caveats": [
+        "A substrate-based philosophical distinction, not an experimentally demonstrated boundary.",
+        "The distinction remains open to philosophical criticism."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5.1",
+          "page": 23,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=23"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "5.1",
+          "page": 24,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=24"
+        }
+      ]
+    },
+    {
+      "id": "different-remedies",
+      "kind": "normative_argument",
+      "statement": "The conclusion associates deference with vigilance, ecological convergence with environmental reform, and colonization with a deeper agency concern.",
+      "scope": "The authors' intervention implications.",
+      "caveats": [
+        "No intervention is tested.",
+        "The paper does not establish that any named remedy is effective or sufficient."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "6",
+          "page": 24,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=24"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "6",
+          "page": 25,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=25"
+        },
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "6",
+          "page": 26,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=26"
+        }
+      ]
+    },
+    {
+      "id": "breakdown-research-proposal",
+      "kind": "authors_research_proposal",
+      "statement": "Withdrawal or disruption is suggested as a method for exposing normally invisible integration.",
+      "scope": "Footnote 7's proposed research strategy.",
+      "caveats": [
+        "No such study is run in this paper.",
+        "Dependence alone does not establish external governance or reflective misalignment."
+      ],
+      "sources": [
+        {
+          "source_id": "paper-v1-attachment",
+          "section": "4 footnote 7",
+          "page": 15,
+          "url": "https://arxiv.org/pdf/2606.13658v1#page=15"
+        }
+      ]
+    }
+  ]
+}

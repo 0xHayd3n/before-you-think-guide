@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
+  "authors": [
+    {
+      "given": "Marianna",
+      "family": "Bergamaschi Ganapini",
+      "name": "Marianna Bergamaschi Ganapini"
+    },
+    {
+      "given": "Massimo",
+      "family": "Chiriatti",
+      "name": "Massimo Chiriatti"
+    },
+    {
+      "given": "Enrico",
+      "family": "Panai",
+      "name": "Enrico Panai"
+    },
+    {
+      "given": "Giuseppe",
+      "family": "Riva",
+      "name": "Giuseppe Riva"
+    }
+  ],
+  "paper_type": "conceptual_philosophical_argument",
+  "new_experiments_reported": false,
+  "validated_diagnostic_provided": false,
+  "arxiv": {
+    "id": "2606.13658",
+    "version": "v1",
+    "submitted_at": "2026-06-11T17:54:59Z",
+    "categories": [
+      "cs.AI"
+    ],
+    "canonical_url": "https://arxiv.org/abs/2606.13658",
+    "version_url": "https://arxiv.org/abs/2606.13658v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.13658v1"
+  },
+  "doi": {
+    "value": "10.48550/arXiv.2606.13658",
+    "status_as_checked": "arXiv-issued DOI via DataCite"
+  },
+  "page_count": 32,
+  "structure": {
+    "numbered_sections": [
+      "1",
+      "2",
+      "2.1",
+      "2.2",
+      "2.3",
+      "3",
+      "4",
+      "5",
+      "5.1",
+      "6"
+    ],
+    "tables": 3,
+    "numbered_figures": 0,
+    "footnotes": 9,
+    "reference_pages": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "appendices": []
+  },
+  "license": {
+    "spdx": "CC-BY-NC-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "verified_via": "official arXiv v1 license link on 2026-10-20"
+  },
+  "verified_at": "2026-10-20",
+  "provenance": {
+    "source_filename": "2606.13658v1.pdf",
+    "source_kind": "exact user-supplied attachment, read via Library page-labeled extraction",
+    "size_bytes": 282234,
+    "read_complete": true,
+    "pages_read": [
+      1,
+      32
+    ],
+    "content_substitution": false,
+    "sha256": null,
+    "sha256_status": "not computed: binary materialization failed at Windows extended-attribute handling",
+    "attachment_materialization_status": "Library transfer helper failed because os.setxattr is unavailable on Windows; no successful local binary materialization claimed.",
+    "attachment_binary_equality_verified": false,
+    "official_record_checked_for": [
+      "title",
+      "all four authors and order",
+      "arXiv v1",
+      "submission time",
+      "paper license",
+      "DOI"
+    ],
+    "pixel_inspection_performed": true,
+    "pdf_redistributed": false,
+    "full_text_redistributed": false,
+    "original_tables_redistributed": false,
+    "original_figures_redistributed": false,
+    "extraction_limits": [
+      "Library provided exact attachment text; auxiliary official arXiv v1 provided table pixels. No attachment hash was established.",
+      "Some non-author names in the source extraction contain encoding artifacts; no guessed bibliography was republished."
+    ],
+    "reference_list_caveat": "The source contains incomplete or inconsistent in-text/reference-list matches; detailed external studies were not independently audited.",
+    "auxiliary_public_pdf": {
+      "url": "https://arxiv.org/pdf/2606.13658v1",
+      "sha256": "0692d74c7f4ef4d1e84e15c96c20e2b26c7c79f64909988fbea4a694e98b5e75",
+      "size_bytes": 282234,
+      "page_count": 32,
+      "use": "Rendered visual inspection of all three tables on pages9-10,16-17,21-22; exact attached text remains content source",
+      "attachment_binary_equality_verified": false
+    }
+  },
+  "companion": {
+    "repository_name": "before-you-think-guide",
+    "repository_url": "https://github.com/0xHayd3n/before-you-think-guide",
+    "maintainer": "0xHayd3n",
+    "status": "unofficial reading companion",
+    "ai_assistance": true,
+    "experiments_run": false,
+    "implementation_reproduced": false,
+    "original_material_license_spdx": "CC-BY-NC-SA-4.0",
+    "results_dataset_included": false
+  }
+}

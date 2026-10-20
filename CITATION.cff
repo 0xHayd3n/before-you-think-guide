@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the original paper for its research and arguments. This repository is an unofficial reading companion."
+title: "Before You Think Guide: unofficial reading companion"
+type: software
+authors:
+  - name: "0xHayd3n"
+repository-code: "https://github.com/0xHayd3n/before-you-think-guide"
+url: "https://github.com/0xHayd3n/before-you-think-guide"
+license: CC-BY-NC-SA-4.0
+date-released: "2026-10-20"
+preferred-citation:
+  type: article
+  title: "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization"
+  authors:
+    - given-names: "Marianna"
+      family-names: "Bergamaschi Ganapini"
+    - given-names: "Massimo"
+      family-names: "Chiriatti"
+    - given-names: "Enrico"
+      family-names: "Panai"
+    - given-names: "Giuseppe"
+      family-names: "Riva"
+  year: 2026
+  month: 6
+  journal: arXiv
+  doi: "10.48550/arXiv.2606.13658"
+  url: "https://arxiv.org/abs/2606.13658v1"
+  notes: "arXiv:2606.13658v1, submitted 11 June 2026. Conceptual/philosophical preprint; no new experiments are reported."
+
